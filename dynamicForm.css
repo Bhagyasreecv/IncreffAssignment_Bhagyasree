@@ -1,0 +1,17 @@
+.inputField{
+    color : blue;
+    padding: 20px;
+    width: 30px;
+}
+td{
+    padding: 10px;
+}
+/*myLabel{
+    width: 30px;
+}*/
+myTextBox{
+    width: 13%;
+}
+table,th,tr{
+    border: 1px solid grey;
+}
