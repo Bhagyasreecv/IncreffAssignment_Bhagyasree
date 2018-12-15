@@ -1,17 +1,31 @@
 .inputField{
-    color : blue;
-    padding: 20px;
-    width: 30px;
+    color :#9999ff;
+    width: 15%;
+    padding: 0 2% 0 2%;
+    font-size: 15px;
 }
-td{
-    padding: 10px;
-}
-/*myLabel{
-    width: 30px;
-}*/
 myTextBox{
+    padding: 0 2% 0 0;
     width: 13%;
 }
 table,th,tr{
+    align-self: center;
     border: 1px solid grey;
+    text-align: left;
+    padding: 5%;
+}
+td{
+    padding: 10px;
+    border: 1px solid grey;
+}
+.mainHeading{
+    font-size: 18px;
+    color: #6666ff;
+}
+h1{
+    color: #ff5c33;
+    padding-left: 3%;
+}
+table{
+    margin : 3%;
 }

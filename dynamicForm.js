@@ -34,7 +34,7 @@ function objIteration(myObj){
             j=0;
             var heading = document.createElement("Label");
             heading.innerHTML = obj;
-            heading.classList.add("inputField");
+            heading.classList.add("mainHeading");
             lineBreak();
             lineBreak();
             container.appendChild(heading);
