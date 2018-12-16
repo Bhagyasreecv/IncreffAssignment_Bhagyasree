@@ -1,19 +1,19 @@
 var formObject = 
 {
-	Name : '',
-	Age : 0,
+	Name : 'Bhagyasree',
+	Age : 25,
     Gender: 'Female',
     Address: {
-        line1 : 'hellsa',
-        line2 : 'sajh',
-        line3 : 'sagsg'
+        line1 : '#123,2nd cross',
+        line2 : 'bannerghatta road',
+        line3 : 'Bangalore'
     },
     hobbies: ['sing','dance'],
-    contact: "54356422",
-    workExperience: "",
+    contact: "8654123584",
+    workExperience: "2 years",
     company: {
-        name: "jgj",
-        currentprofile: "asgg"
+        name: "Netcracker Technology",
+        currentprofile: "Software Engineer"
     },
     "maritalStatus":""
 };
